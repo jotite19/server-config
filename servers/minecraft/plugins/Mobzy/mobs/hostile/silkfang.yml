@@ -4,7 +4,7 @@ staticComponents:
   - !<mobzy:model>
     id: 26
   - !<mobzy:attributes>
-    maxHealth: 15
+    maxHealth: 20
     movementSpeed: 0.3
     attackDamage: 5
     attackKnockback: 1
